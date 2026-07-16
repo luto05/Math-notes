@@ -2,7 +2,7 @@
 
 Apuntes de análisis real: cardinalidad (con Cantor-Schröder-Bernstein), la construcción y estructura de la recta real, espacios métricos y su topología, compacidad, continuidad y convergencia, clasificación de espacios y convexidad, y los teoremas de separación. Cierra con una sección de ejercicios adicionales.
 
-El PDF compilado (85 páginas) está incluido: [`Apuntes de análisis.pdf`](<Apuntes de análisis.pdf>).
+El PDF compilado (85 páginas) está incluido: [`apuntes-de-analisis.pdf`](apuntes-de-analisis.pdf).
 
 ## Secciones
 
@@ -17,8 +17,8 @@ El PDF compilado (85 páginas) está incluido: [`Apuntes de análisis.pdf`](<Apu
 ## Compilación
 
 ```bash
-lualatex "Apuntes de análisis.tex"   # dos pasadas para resolver referencias
-lualatex "Apuntes de análisis.tex"
+lualatex apuntes-de-analisis.tex   # dos pasadas para resolver referencias
+lualatex apuntes-de-analisis.tex
 ```
 
 Requiere LuaLaTeX y el paquete `estilo-mate.sty` (véase el README de la raíz del repositorio).

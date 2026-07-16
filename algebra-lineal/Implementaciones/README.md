@@ -1,6 +1,6 @@
 # Implementaciones — Notas de Álgebra Lineal
 
-Implementaciones en **Python puro** (sin numpy, solo biblioteca estándar) de los algoritmos de las secciones computacionales de [las notas](<../Notas de Álgebra Lineal.pdf>). La idea es mostrar lo que `numpy`/`sklearn` hacen por dentro: cada archivo implementa la construcción exacta del apunte y se testea con los **mismos ejemplos verificados a mano** que aparecen en él.
+Implementaciones en **Python puro** (sin numpy, solo biblioteca estándar) de los algoritmos de las secciones computacionales de [las notas](../notas-de-algebra-lineal.pdf). La idea es mostrar lo que `numpy`/`sklearn` hacen por dentro: cada archivo implementa la construcción exacta del apunte y se testea con los **mismos ejemplos verificados a mano** que aparecen en él.
 
 ## Cómo correrlas
 
