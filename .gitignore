@@ -1,0 +1,26 @@
+# Material de terceros: no distribuir
+nachito.pdf
+Teoría de la medida/M6a.pdf
+Teoría de la medida/M6b.pdf
+Teoría de la medida/M6c.pdf
+
+# Archivos internos de Claude Code
+.claude/
+CLAUDE.md
+
+# Auxiliares de LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# Python
+__pycache__/
+*.pyc
+
+# Editor / sistema
+.vscode/
+.DS_Store
